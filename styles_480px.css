@@ -282,7 +282,7 @@
     /* background-color: rgba(232, 236, 241, 1); */
     position: relative;
     color: rgba(255, 255, 255, 0.9);
-    font-size: 12px;
+    font-size: 10px;
 
   }
 
@@ -313,7 +313,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 10px;
+    padding: 0;
     margin: 0;
     position: relative;
 
@@ -337,7 +337,7 @@
   }
 
   .turnier{
-    padding: 0px 10px;
+    padding: 0px;
     width: auto;
     height: 100px;
     text-align: center;
@@ -419,13 +419,13 @@
   }
 
   .about-video{
-    width:360px;
+    width:240px;
     padding: 2em;
   }
 
   .video{
-    width: 360px;
-    height: 360px;
+    width: 240px;
+    height: 240px;
   }
 
   .about-referenz{
