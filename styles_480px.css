@@ -143,6 +143,7 @@
       display: flex;
       position: relative;
       min-height: 800px;
+      width: 100%;
 
 
 
@@ -158,6 +159,7 @@
     }
     .slide-textbox {
       display: none;
+
     }
 
     .titel-box{
@@ -165,7 +167,7 @@
     }
 
     .titel-klein-wrapper{
-      width:100%
+      width:100%;
       display:flex;
       justify-content:center;
       position: absolute;
@@ -191,6 +193,7 @@
       position: absolute;
       bottom: 0;
       left: 0;
+        width: 100%;
 
     }
 
@@ -338,7 +341,7 @@
 
   .turnier{
     padding: 0px;
-    width: auto;
+    width: 100px;
     height: 100px;
     text-align: center;
     justify-content: center;
