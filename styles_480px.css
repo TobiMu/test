@@ -359,7 +359,7 @@
       border-radius: 10px;
 
       position: absolute;
-      top: -20px;
+      top: 0px;
       left: 40%;
       transition: all 200ms ease-in;
       cursor: pointer;
