@@ -189,7 +189,7 @@
     }
     .medaille-klein{
       display: block;
-      background-color: rgba(255, 255, 255, 1);
+
       position: absolute;
       bottom: 0;
       left: 0;
@@ -359,8 +359,8 @@
       border-radius: 10px;
 
       position: absolute;
-      top: 0px;
-      left: 40%;
+      top: -10px;
+      left: 38%;
       transition: all 200ms ease-in;
       cursor: pointer;
     }
@@ -436,7 +436,8 @@
   }
 
   .about-referenz{
-    padding-top: 3em;
+    padding-top: 23em;
+    padding-right: 0.8em;
     position: absolute;
     bottom: 10%;
     right: 30%;
@@ -590,6 +591,7 @@
 
   .formular{
     margin-bottom: 50px;
+    margin-left: 0;
   }
   form {
     position: relative;
