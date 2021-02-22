@@ -152,7 +152,7 @@
     .slide{
       width: 100%;
       background-image: linear-gradient(to right,rgba(255, 255, 255, 1),rgba(232, 236, 241, 1),rgba(242, 241, 239, 0.1));
-
+      min-height: 1200px;
       position: relative;
       text-align: center;
     }
@@ -169,7 +169,7 @@
       display:flex;
       justify-content:center;
       position: absolute;
-      bottom: 20%;
+      bottom: 180px;
       left:0;
     }
 
@@ -177,7 +177,7 @@
       font-family: serif;
       font-size: 22px;
       display: inline-block;
-      width: 25ch;
+      width: 20ch;
       text-align: center;
       line-height: 1.5em;
 
@@ -188,6 +188,9 @@
     .medaille-klein{
       display: block;
       background-color: rgba(255, 255, 255, 1);
+      position: absolute;
+      bottom: 0;
+      left: 0;
 
     }
 
@@ -268,7 +271,7 @@
 
   }
   .partner-text{
-    width: 40ch;
+    width: 30ch;
     padding-bottom: 20px;
 
   }
@@ -310,7 +313,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 90px;
+    padding: 10px;
     margin: 0;
     position: relative;
 
@@ -334,7 +337,7 @@
   }
 
   .turnier{
-    padding: 0px 20px;
+    padding: 0px 10px;
     width: auto;
     height: 100px;
     text-align: center;
@@ -531,7 +534,7 @@
 
   .booking-header{
     text-align: center;
-    padding: 18em 6em 0;
+    padding: 2em 6em 0;
   }
 
   .booking-kontakt{
