@@ -331,7 +331,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    font-weight: 100;
+    font-weight: 80;
     text-align: center;
 
   }
@@ -349,10 +349,10 @@
     }
     .turnier:before{
       content: "";
-      width: 25px;
-      height: 25px;
+      width: 10px;
+      height: 20px;
       background-color: lightgrey;
-      border-radius: 25px;
+      border-radius: 10px;
 
       position: absolute;
       top: -15px;
@@ -419,8 +419,9 @@
   }
 
   .about-video{
-    width:240px;
-    padding: 2em;
+    width:480px;
+    padding: 2em 0;
+    justify-content: center;
   }
 
   .video{
@@ -586,7 +587,7 @@
   }
   form {
     position: relative;
-  	width: 300px;
+  	width: 200px;
     height: 450px;
   	padding: 2em ;
     background-color: #bad8f0;
@@ -601,7 +602,7 @@
 
 
   input, textarea {
-  	font-size: 18px;
+  	font-size: 16px;
   	padding: 5px;
   	-webkit-appearance: none;
   	display: block;
