@@ -418,7 +418,7 @@
 
   .about-text{
   width: 25ch;
-  padding: 0 1em;
+  padding: 0 4em;
   position: relative;
   text-align: center;
   margin: 0;
@@ -438,8 +438,8 @@
   .about-referenz{
     padding-top: 3em;
     position: absolute;
-    top: 10%;
-    right: 18%;
+    bottom: 10%;
+    right: 30%;
   }
   .presselogo{
     object-fit: contain;
