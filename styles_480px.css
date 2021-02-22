@@ -359,8 +359,8 @@
       border-radius: 10px;
 
       position: absolute;
-      top: -15px;
-      left: 44%;
+      top: -20px;
+      left: 40%;
       transition: all 200ms ease-in;
       cursor: pointer;
     }
@@ -421,6 +421,7 @@
   padding: 0 1em;
   position: relative;
   text-align: center;
+  margin: 0;
   }
 
   .about-video{
@@ -437,8 +438,8 @@
   .about-referenz{
     padding-top: 3em;
     position: absolute;
-    top: 75%;
-    right: 20%;
+    top: 10%;
+    right: 18%;
   }
   .presselogo{
     object-fit: contain;
